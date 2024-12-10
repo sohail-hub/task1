@@ -1,0 +1,28 @@
+.block{
+  display: block;
+  margin-bottom: 5px;
+
+}
+.bg-custom {
+  background-image: url('images/bg.jpg');
+  background-size: 100%; 
+ 
+}
+.col-sm-6 img {
+  width: 80%;
+  height: auto;
+  border-radius: 8px; 
+  margin-bottom: 15px;
+  
+}
+.size img {
+  width: 350px;
+
+  height: 230px;
+  border-radius: 8px; 
+  margin-bottom: 15px;
+  
+}
+.bg{
+  background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(149,1,1,1) 48%, rgba(0,0,0,1) 100%);
+}
